@@ -25,7 +25,9 @@ hr es una línea de división usada para separar secciones
 
 br es una etiqueta que agrega un salto de línea en el documento
 
+Para agregar un enlace a otra página o un sitio externo se usa la siguiente etiqueta
 
+<a href="https://www.google.com">Ir a Google</a>
 
 ## CSS3
 
