@@ -31,7 +31,7 @@ Para agregar un enlace a otra página o un sitio externo se usa la siguiente eti
 
 Para abrir el enlace en una nueva pestaña, se agrega el atributo target de la siguiente manera
 
-<a target="_blank" href="https://www.google.com">Ir a Google en una nueva pestaña</a>
+<a href="https://www.google.com" target="_blank">Ir a Google en una nueva pestaña</a>
 
 ## CSS3
 
