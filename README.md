@@ -27,11 +27,11 @@ br es una etiqueta que agrega un salto de línea en el documento
 
 Para agregar un enlace a otra página o un sitio externo se usa la siguiente etiqueta
 
-´´´<a href="https://www.google.com">Ir a Google</a>´´´
+´´´ <a href="https://www.google.com">Ir a Google</a> ´´´
 
 Para abrir el enlace en una nueva pestaña, se agrega el atributo target de la siguiente manera
 
-´´´<a href="https://www.google.com" target="_blank">Ir a Google en una nueva pestaña</a>´´´
+´´´ <a href="https://www.google.com" target="_blank">Ir a Google en una nueva pestaña</a> ´´´
 
 ## CSS3
 
