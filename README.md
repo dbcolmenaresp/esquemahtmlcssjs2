@@ -29,6 +29,10 @@ Para agregar un enlace a otra página o un sitio externo se usa la siguiente eti
 
 <a href="https://www.google.com">Ir a Google</a>
 
+Para abrir el enlace en una nueva pestaña, se agrega el atributo target de la siguiente manera
+
+<a target="_blank" href="https://www.google.com">Ir a Google</a>
+
 ## CSS3
 
 CSS3 no fomra parte de la definición de HTML5, complementa esta para mejorar la presentacion de la pagina.
